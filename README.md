@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Step 1 Create A Virtual Machine in Azure
+- Step 1 Create A Virtual Machine in Microsoft Azure & Connect to it using Microsoft Remote Desktop.
 - Step 2
 - Step 3
 - Step 4
