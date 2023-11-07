@@ -80,12 +80,28 @@ Once we have created our Virtual machine, we would connect to it in Microsoft Re
   
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 2: Install / Enable IIS in Windows WITH CGI and Common HTTP Features AND IIS Management Console
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qWdAIJr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img src="https://i.imgur.com/dMnDoBw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img src="https://i.imgur.com/Jd5foko.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img src="https://i.imgur.com/FSrDKXS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img src="https://i.imgur.com/4wsZeWB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img src="https://i.imgur.com/ZsC70EO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img src="https://i.imgur.com/NUB76Ff.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img src="https://i.imgur.com/jlnx45f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img src="https://i.imgur.com/G6jC2fs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
