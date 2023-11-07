@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Step 1: Create A Virtual Machine in Microsoft Azure & Connect to it using Remote Desktop.
-- Step 2: Install / Enable IIS in Windows WITH CGI and Common HTTP Features
+- Step 2: Install / Enable IIS in Windows WITH CGI and Common HTTP Features AND IIS Management Console
 
 - Step 3
 - Step 4
