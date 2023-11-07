@@ -19,8 +19,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Step 1 Create A Virtual Machine in Microsoft Azure & Connect to it using Microsoft Remote Desktop.
-- Step 2
+- Step 1: Create A Virtual Machine in Microsoft Azure & Connect to it using Remote Desktop.
+- Step 2: Install / Enable IIS in Windows WITH CGI and Common HTTP Features
+
 - Step 3
 - Step 4
 - Step 5
@@ -41,7 +42,7 @@ Create a Resource Group in Microsoft Azure.
 <img src="https://i.imgur.com/SWAnXSt.png" height="80%" width="80%" alt="Resource Group"/>
 </p>
 
-Then we would create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs, called VM-osticket to lay within that Resource Group. 
+Then create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs, called VM-osticket to lay within that Resource Group. 
 <p
 
 <p>
