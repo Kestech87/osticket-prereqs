@@ -22,12 +22,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Step 1: Create A Virtual Machine in Microsoft Azure & Connect to it using Remote Desktop.
 - Step 2: Install / Enable IIS in Windows WITH CGI and Common HTTP Features AND IIS Management Console
 
-- Step 3: Download and Install PHP Manager For IIS
-- Step 4: Download and Install The Rewrite Module 
-- Step 5: Download and Unzip PHP 7.3.8 into C:\PHP
-- Step 6: Download and Install VC_redist.x.86
-- Step 7
-- Step 8
+- Step 3 : Download and Install PHP Manager For IIS
+- Step 4 : Download and Install The Rewrite Module 
+- Step 5 : Download and Unzip PHP 7.3.8 into C:\PHP
+- Step 6 : Download and Install VC_redist.x.86
+- Step 7 : Download and Install MySQL 5.5.62 
+- Step 8 : osTicket Configurations
+- Step 9 : Download and Install HeidiSQL.
+- Step 10: Continue Setting up osticket in the browser
 
 <h2>Installation Steps</h2>
 
@@ -171,6 +173,96 @@ Download and Install VC_redist.x.86
 
   <img src="https://i.imgur.com/QJiKW8B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 7
+  
+Download and Install MySQL 5.5.62 
 </p>
+
+<img src="https://i.imgur.com/horNyBU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/NdckPlk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/xZsIbdb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/Ybx0VAe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/JeaGCZ7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/8S3kcz0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/YZlVoFP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>
+Step 8
+  
+Configurations
+</p>
+
+<p>
+  
+Open IIS as an Admin
+  
+<img src="https://i.imgur.com/9mN4Ne3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Register PHP from within IIS
+
+<img src="https://i.imgur.com/OYOtBcb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Reload IIS (Open IIS, Stop and Start the server)
+
+Install osTicket v1.15.8
+Download osTicket from the Installation Files Folder
+
+Extract and copy “upload” folder to c:\inetpub\wwwroot
+Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+
+<img src="https://i.imgur.com/swsDAje.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Reload IIS (Open IIS, Stop and Start the server)
+
+Go to sites -> Default -> osTicket
+On the right, click “Browse *:80”
+
+Note that some extensions are not enabled
+Go back to IIS, sites -> Default -> osTicket
+Double-click PHP Manager
+Click “Enable or disable an extension”
+Enable: php_imap.dll
+Enable: php_intl.dll
+Enable: php_opcache.dll
+Refresh the osTicket site in your browse, observe the changes
+
+Rename: ost-config.php
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+Assign Permissions: ost-config.php
+Disable inheritance -> Remove All
+New Permissions -> Everyone -> All
+
+Continue Setting up osTicket in the browser (click Continue)
+Name Helpdesk
+Default email (receives email from customers)
+
+</p>
+<p>
+Step 9
+  
+Download and Install HeidiSQL.
+</p>
+
+<img src="https://i.imgur.com/T5jmOgB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/3UuIlq4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/mNzlmpx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/L9Fdjq4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>
+Step 10
+  
+Continue Setting up osticket in the browser
+</p>
+
 <br />
