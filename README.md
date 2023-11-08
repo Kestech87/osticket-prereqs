@@ -22,8 +22,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Step 1: Create A Virtual Machine in Microsoft Azure & Connect to it using Remote Desktop.
 - Step 2: Install / Enable IIS in Windows WITH CGI and Common HTTP Features AND IIS Management Console
 
-- Step 3
-- Step 4
+- Step 3: Download and Install PHP Manager For IIS
+- Step 4: Download and Install The Rewrite Module 
 - Step 5
 - Step 6
 - Step 7
@@ -79,8 +79,13 @@ Once we have created our Virtual machine, we would connect to it in Microsoft Re
 
   
 </p>
+
+
+
 <p>
-Step 2: Install / Enable IIS in Windows WITH CGI and Common HTTP Features AND IIS Management Console
+Step 2
+  
+Install / Enable IIS in Windows WITH CGI and Common HTTP Features AND IIS Management Console
 </p>
 <br />
 
@@ -103,23 +108,34 @@ Step 2: Install / Enable IIS in Windows WITH CGI and Common HTTP Features AND II
 
   <img src="https://i.imgur.com/G6jC2fs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 3
+  
+Download and Install PHP Manager For IIS
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rkkHvHK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 4: Download and Install The Rewrite Module 
 </p>
 <br />
 
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/geaxli9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/lsOz1D0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/ZYKRPUQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
