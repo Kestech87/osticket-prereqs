@@ -24,8 +24,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Step 3: Download and Install PHP Manager For IIS
 - Step 4: Download and Install The Rewrite Module 
-- Step 5
-- Step 6
+- Step 5: Download and Unzip PHP 7.3.8 into C:\PHP
+- Step 6: Download and Install VC_redist.x.86
 - Step 7
 - Step 8
 
@@ -134,19 +134,43 @@ Step 4: Download and Install The Rewrite Module
 
 <img src="https://i.imgur.com/ZYKRPUQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-
-
-</p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a New PHP File on the C:\PHP
+</p>
+
+
+<img src="https://i.imgur.com/77nfLGF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/dXkesoo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+Step 5
+  
+Download and Unzip PHP 7.3.8 into C:\PHP
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7JPbHmn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/RTGIIU4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/RoVgulS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+Step 6
+  
+Download and Install VC_redist.x.86
 </p>
 <p>
+
+  <img src="https://i.imgur.com/GUAbSd8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img src="https://i.imgur.com/QJiKW8B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
