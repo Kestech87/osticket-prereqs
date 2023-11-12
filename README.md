@@ -345,6 +345,16 @@ Congratulations, hopefully it is installed with no errors!
 
 <img src="https://i.imgur.com/QQzKat7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+Help desk login page
+
+<img src="https://i.imgur.com/8BuPcZb.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+End Users osTicket URL
+
+
+<img src="https://i.imgur.com/mA1hQ43.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <br />
