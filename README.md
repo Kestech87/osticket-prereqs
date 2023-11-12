@@ -210,18 +210,25 @@ Register PHP from within IIS
 
 Reload IIS (Open IIS, Stop and Start the server)
 
-Install osTicket v1.15.8
-
-
+Download and Install osTicket v1.15.8
 Extract and copy “upload” folder to c:\inetpub\wwwroot
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
 <img src="https://i.imgur.com/swsDAje.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+
+<img src="https://i.imgur.com/XpCzeFx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Reload IIS (Open IIS, Stop and Start the server)
 
 Go to sites -> Default -> osTicket
 On the right, click “Browse *:80”
+
+<img src="https://i.imgur.com/stOR9p5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/eQPw7F5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/v3Dj0lM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Note that some extensions are not enabled
 Go back to IIS, sites -> Default -> osTicket
