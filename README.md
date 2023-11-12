@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Step 7 : Download and Install MySQL 5.5.62 
 - Step 8 : osTicket Configurations
 - Step 9 : Download and Install HeidiSQL.
-- Step 10: Continue Setting up osticket in the browser
+
 
 <h2>Installation Steps</h2>
 
@@ -338,7 +338,7 @@ Click “Install Now!”
 
 
 <p>
-Step 10
+
   
 Congratulations, hopefully it is installed with no errors!
 
