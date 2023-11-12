@@ -202,7 +202,7 @@ Configurations
   
 Open IIS as an Admin
   
-<img src="https://i.imgur.com/9mN4Ne3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/W5e0Wok.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Register PHP from within IIS
 
@@ -255,7 +255,7 @@ Download and Install HeidiSQL.
 
 <img src="https://i.imgur.com/3UuIlq4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/mNzlmpx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Cl2sL2v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/L9Fdjq4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
