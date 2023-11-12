@@ -307,7 +307,7 @@ Open Heidi SQL - Create a new session,
 
 Connect to the session - Create a database called “osTicket”
 
-Continue Setting up osticket in the browser
+
 
 <img src="https://i.imgur.com/XBxg9ca.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -319,7 +319,9 @@ Continue Setting up osticket in the browser
 <img src="https://i.imgur.com/71duMGG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-<img src="https://i.imgur.com/L9Fdjq4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Continue Setting up osticket in the browser
+
+<img src="https://i.imgur.com/8QmTNpJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 MySQL Database: osTicket
 
@@ -338,7 +340,11 @@ Click “Install Now!”
 <p>
 Step 10
   
-Continue Setting up osticket in the browser
+Congratulations, hopefully it is installed with no errors!
+
+
+<img src="https://i.imgur.com/QQzKat7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <br />
