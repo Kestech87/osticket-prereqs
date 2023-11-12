@@ -281,6 +281,11 @@ Continue Setting up osTicket in the browser (click Continue)
 Name Helpdesk
 Default email (receives email from customers)
 
+<img src="https://i.imgur.com/jo5KO5U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/fuwho9h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 </p>
 <p>
 Step 9
