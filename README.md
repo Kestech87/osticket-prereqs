@@ -234,9 +234,13 @@ Note that some extensions are not enabled
 Go back to IIS, sites -> Default -> osTicket
 Double-click PHP Manager
 Click “Enable or disable an extension”
+
 Enable: php_imap.dll
+
 Enable: php_intl.dll
+
 Enable: php_opcache.dll
+
 
 <img src="https://i.imgur.com/bjCbDKi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -254,8 +258,24 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 
 Assign Permissions: ost-config.php
+
 Disable inheritance -> Remove All
+
 New Permissions -> Everyone -> All
+
+<img src="https://i.imgur.com/M006OTS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/kTXeWTX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/OSPt1Rr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/OOYtR3e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+<img src="https://i.imgur.com/XLPFmW7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/mhzZv6j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 Continue Setting up osTicket in the browser (click Continue)
 Name Helpdesk
