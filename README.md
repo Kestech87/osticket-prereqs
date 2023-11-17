@@ -157,11 +157,13 @@ Download and Unzip PHP 7.3.8 into C:\PHP
 
 
 <p>
+  
 <img src="https://i.imgur.com/7JPbHmn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/RTGIIU4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/saEWoXX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/RoVgulS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <p>
