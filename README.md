@@ -101,7 +101,7 @@ Install / Enable IIS in Windows WITH CGI and Common HTTP Features AND IIS Manage
 
   <img src="https://i.imgur.com/Jd5foko.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-  <img src="https://i.imgur.com/FSrDKXS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/vRdn0fN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
   <img src="https://i.imgur.com/4wsZeWB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
