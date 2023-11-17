@@ -173,9 +173,9 @@ Download and Install VC_redist.x.86
 </p>
 <p>
 
-  <img src="https://i.imgur.com/GUAbSd8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/JQNMhf7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-  <img src="https://i.imgur.com/QJiKW8B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/JlRgPPY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 Step 7
   
