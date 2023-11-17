@@ -208,7 +208,7 @@ Open IIS as an Admin
 
 Register PHP from within IIS
 
-<img src="https://i.imgur.com/OYOtBcb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QZlGC2w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Reload IIS (Open IIS, Stop and Start the server)
 
