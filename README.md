@@ -186,9 +186,6 @@ Download and Install MySQL 5.5.62
 
 <img src="https://i.imgur.com/h1FnaAA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-
-<img src="https://i.imgur.com/Ybx0VAe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
 <img src="https://i.imgur.com/8S3kcz0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/YZlVoFP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
