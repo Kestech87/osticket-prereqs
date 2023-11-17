@@ -73,11 +73,12 @@ Once we have created our Virtual machine, we would connect to it in Microsoft Re
 <br />
 
 <p>
+  
 <img src="https://i.imgur.com/5EkKrFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/AByg8Xg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/ZBfpnAz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KOqJL2y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/PNOWPnR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
