@@ -127,7 +127,9 @@ Download and Install PHP Manager For IIS
 <img src="https://i.imgur.com/rkkHvHK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+  
 Step 4: Download and Install The Rewrite Module 
+
 </p>
 <br />
 
