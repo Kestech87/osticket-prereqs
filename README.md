@@ -39,9 +39,11 @@ Step 1
 (Create A Virtual Machine in Azure)
 
 Create a Resource Group in Microsoft Azure.
-<img src="https://i.imgur.com/F7HMx1D.png" height="80%" width="80%" alt="Resource Group"/>
 
-<img src="https://i.imgur.com/SWAnXSt.png" height="80%" width="80%" alt="Resource Group"/>
+<img src="https://i.imgur.com/okNRsTh.png" height="80%" width="80%" alt="Resource Group"/>
+
+<img src="https://i.imgur.com/2rCx3UJ.png" height="80%" width="80%" alt="Resource Group"/>
+
 </p>
 
 Then create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs, called VM-osticket to lay within that Resource Group. 
