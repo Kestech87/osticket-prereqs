@@ -56,7 +56,7 @@ Then create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs, called VM-o
 
 <img src="https://i.imgur.com/AUxJMiN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/4OIFvSD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o43r0PT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/yOc6EFo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
