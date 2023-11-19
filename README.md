@@ -278,7 +278,7 @@ New Permissions -> Everyone -> All
 
 <img src="https://i.imgur.com/OSPt1Rr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/aJBuhqj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wfWcyhD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <img src="https://i.imgur.com/XLPFmW7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
