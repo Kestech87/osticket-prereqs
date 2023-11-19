@@ -288,7 +288,7 @@ New Permissions -> Everyone -> All
 
 Continue Setting up osTicket in the browser (click Continue)
 
-<img src="https://i.imgur.com/jo5KO5U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nmQeF9B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/fuwho9h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
