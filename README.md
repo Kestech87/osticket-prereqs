@@ -355,7 +355,7 @@ Congratulations, hopefully it is installed with no errors!
 
 Help desk login page
 
-<img src="https://i.imgur.com/8BuPcZb.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z2k4kUr.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 End Users osTicket URL
