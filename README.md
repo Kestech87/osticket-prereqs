@@ -235,7 +235,7 @@ On the right, click “Browse *:80”
 
 <img src="https://i.imgur.com/eQPw7F5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/v3Dj0lM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zQKKaGE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Note that some extensions are not enabled
 Go back to IIS, sites -> Default -> osTicket
