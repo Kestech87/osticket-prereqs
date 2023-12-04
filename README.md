@@ -6,6 +6,15 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system, osTicket.<br />
 
 
+<p>
+  
+Before installing osTicket, make sure you have PHP (version 5.6 or higher) and a compatible database system (like MySQL or MariaDB). Create a web server to host the system files,  and configure PHP settings to run the installation.
+
+</p>
+
+
+
+
 
 <h2>Environments and Technologies Used</h2>
 
