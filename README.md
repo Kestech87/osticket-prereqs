@@ -286,7 +286,7 @@ New Permissions -> Everyone -> All
 
 Continue Setting up osTicket in the browser (click Continue)
 
-<img src="https://i.imgur.com/nmQeF9B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lrCWDsn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/fuwho9h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -323,7 +323,7 @@ Connect to the session - Create a database called “osTicket”
 
 
 
-<img src="https://i.imgur.com/71duMGG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5MqkxUr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 Continue Setting up osticket in the browser
