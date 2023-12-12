@@ -332,7 +332,7 @@ Connect to the session - Create a database called “osTicket”
 
 
 
-<img src="https://i.imgur.com/5MqkxUr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VnDFWD8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 Continue Setting up osticket in the browser
@@ -369,7 +369,7 @@ Help desk login page
 End Users osTicket URL
 
 
-<img src="https://i.imgur.com/mA1hQ43.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hUzndJp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 
