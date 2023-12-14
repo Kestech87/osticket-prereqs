@@ -258,7 +258,7 @@ Enable: php_intl.dll
 Enable: php_opcache.dll
 
 
-<img src="https://i.imgur.com/bjCbDKi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UsbrfQ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/BUG46lv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
