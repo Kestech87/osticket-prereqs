@@ -332,7 +332,7 @@ Connect to the session - Create a database called “osTicket”
 
 
 
-<img src="https://i.imgur.com/VnDFWD8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TwFu3PF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 Continue Setting up osticket in the browser
