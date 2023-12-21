@@ -298,9 +298,9 @@ New Permissions -> Everyone -> All
 
 Continue Setting up osTicket in the browser (click Continue)
 
-<img src="https://i.imgur.com/lrCWDsn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mNzTmZu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/fuwho9h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PeAN0Hc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 </p>
@@ -333,14 +333,14 @@ Connect to the session - Create a database called “osTicket”
 
 <img src="https://i.imgur.com/Ex7HxA6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+<img src="https://i.imgur.com/mCQZZzi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-<img src="https://i.imgur.com/TwFu3PF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 Continue Setting up osticket in the browser
 
-<img src="https://i.imgur.com/8QmTNpJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JhEYGWR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 MySQL Database: osTicket
 
@@ -366,13 +366,13 @@ Congratulations, hopefully it is installed with no errors!
 
 Help desk login page
 
-<img src="https://i.imgur.com/Z2k4kUr.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LETvjeS.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 End Users osTicket URL
 
 
-<img src="https://i.imgur.com/hUzndJp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6NPl8S3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 
