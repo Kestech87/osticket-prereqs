@@ -61,9 +61,10 @@ Then create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs, called VM-o
 <p>
 <img src="https://i.imgur.com/gt5KhtC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+<img src="https://i.imgur.com/DdHsQ9S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <img src="https://i.imgur.com/SrWGqmq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/AUxJMiN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/91Rrl3j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -85,7 +86,7 @@ Once we have created our Virtual machine, we would connect to it in Microsoft Re
 
 <img src="https://i.imgur.com/AByg8Xg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/KOqJL2y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EmUm9hU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/PNOWPnR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -109,11 +110,11 @@ Install / Enable IIS in Windows WITH CGI and Common HTTP Features AND IIS Manage
   <img src="https://i.imgur.com/dMnDoBw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 
-  <img src="https://i.imgur.com/Jd5foko.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/LpHPaKt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
   <img src="https://i.imgur.com/vguSkT4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-  <img src="https://i.imgur.com/4wsZeWB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/VhaSHOn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
   <img src="https://i.imgur.com/ZsC70EO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
